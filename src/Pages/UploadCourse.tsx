@@ -1,6 +1,6 @@
 const UploadCourse = () => {
   return (
-    <div className="md:mx-[300px] mt-[100px] flex justify-center items-center h-[80vh] ">
+    <div className="mx-3 md:mx-[300px] mt-[100px] flex justify-center items-center h-[80vh] ">
       <div className="border-2 border-gray-400 p-4 w-[500px] rounded-md">
         <h1 className="text-[2.6rem] text-center tracking-tighter font-bold mb-10 ">
           Upload Course
